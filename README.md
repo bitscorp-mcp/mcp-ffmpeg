@@ -6,6 +6,10 @@ A Node.js server that uses FFmpeg to manipulate video files. This server provide
 - Resize videos to different resolutions (360p, 480p, 720p, 1080p)
 - Extract audio from videos in various formats (MP3, AAC, WAV, OGG)
 
+<a href="https://glama.ai/mcp/servers/@bitscorp-mcp/mcp-ffmpeg">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@bitscorp-mcp/mcp-ffmpeg/badge" alt="FFmpeg Video Processor MCP server" />
+</a>
+
 ## Prerequisites
 
 Before running this application, you need to have the following installed:
