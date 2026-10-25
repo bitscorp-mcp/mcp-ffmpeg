@@ -1,5 +1,5 @@
 # MCP FFmpeg Video Processor
-[![smithery badge](https://smithery.ai/badge/@bitscorp-mcp/mcp-ffmpeg)](https://smithery.ai/server/@bitscorp-mcp/mcp-ffmpeg)
+[![LightNow capabilities](https://lightnow.ai/badge/io.github.bitscorp-mcp/mcp-ffmpeg)](https://lightnow.ai/servers/io.github.bitscorp-mcp/mcp-ffmpeg)
 
 A Node.js server that uses FFmpeg to manipulate video files. This server provides APIs to:
 
